@@ -1,0 +1,3 @@
+-   Go to Folder Sec-18-Forkify
+-   run npm install
+-   run npm start
